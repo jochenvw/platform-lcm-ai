@@ -3,7 +3,7 @@
 The velocity at which hyperscalers providers like Azure, AWS, and Google Cloud introduce new services, features, and deprecate existing ones at an unprecedented pace. This velocity often surpasses the capacity of platform engineering teams to effectively manage and integrate these changes, posing significant challenges in cloud platform lifecycle management.
 
 ## The Commonplace Approach: A Recipe for Inefficiency
-The conventional method of managing cloud platform lifecycles typically involves three steps:
+The conventional method of managing cloud platform lifecycle typically involves three steps:
 
 ![Miztiik - Platform Engineering with AI](images/miztiik_architecture_platform_lcm_ai_001.png)
 
@@ -33,7 +33,7 @@ Incorporating environmental or workload metadata into these systems facilitates 
 
 ![Miztiik - Platform Engineering with AI](images/miztiik_architecture_platform_lcm_ai_004.png)
 
-Embracing AI-driven solutions in platform LCM not only enhances operational efficiency but also positions organizations to better navigate the complexities of modern cloud environments. By leveraging the advanced reasoning capabilities of LLMs, businesses can achieve a more resilient and responsive infrastructure, ensuring sustained success in an ever-changing digital landscape.
+Embracing AI-driven solutions in platform LCM enhances operational efficiency and also positions organizations to better navigate the complexities of modern cloud environments. By leveraging the advanced reasoning capabilities of LLMs, businesses can achieve a more resilient and responsive infrastructure, ensuring sustained success in an ever-changing digital landscape.
 
 
 ### 📚 References
