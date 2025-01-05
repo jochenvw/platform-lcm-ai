@@ -42,7 +42,6 @@ Embracing AI-driven solutions in platform LCM enhances operational efficiency an
 1. [AWS TLS Deprecation][2]
 1. [Overlooked Challenge of Efficiently Decommissioning Resources][3]
 
-
 [1]: https://learn.microsoft.com/en-us/lifecycle/announcements/tls-support-ending-10-31-2024
 [2]: https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/
 [3]: https://blog.omnistrate.com/posts/49
