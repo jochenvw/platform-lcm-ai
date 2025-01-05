@@ -1,8 +1,6 @@
-# Cloud Platform Life Cycle Management
+# Platform Life Cycle Management(LCM) AI
 
-The velocity at which hyperscalers providers like Azure, AWS, and Google Cloud introduce new services, features, and deprecate existing ones at an unprecedented pace. This velocity often surpasses the capacity of platform engineering teams to effectively manage and integrate these changes, posing significant challenges in cloud platform lifecycle management. 
-
-
+The velocity at which hyperscalers providers like Azure, AWS, and Google Cloud introduce new services, features, and deprecate existing ones at an unprecedented pace. This velocity often surpasses the capacity of platform engineering teams to effectively manage and integrate these changes, posing significant challenges in cloud platform lifecycle management.
 
 ## The Commonplace Approach: A Recipe for Inefficiency
 The conventional method of managing cloud platform lifecycles typically involves three steps:
@@ -42,7 +40,7 @@ Embracing AI-driven solutions in platform LCM not only enhances operational effi
 
 1. [Azure TLS Deprecation][1]
 1. [AWS TLS Deprecation][2]
-1. [Overlooked Challenge of Efficiently Decommissioning Resources][2]
+1. [Overlooked Challenge of Efficiently Decommissioning Resources][3]
 
 
 [1]: https://learn.microsoft.com/en-us/lifecycle/announcements/tls-support-ending-10-31-2024
