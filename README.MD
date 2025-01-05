@@ -11,7 +11,7 @@ The conventional method of managing cloud platform lifecycles typically involves
 
 1. **Identify Changes**: Monitor various sources to detect updates, deprecations, security advisories, and other modifications.
 
-1. **Assess**: Evaluate the relevance and impact of these changes on the platform by applying a set of *guidelines* or *rules*. For instance, they might ask, "*Is TLS 1.1 deprecated?*<sup>[1],[2]</sup>" or "*Are there new security vulnerabilities?*"
+1. **Assess**: Evaluate the relevance and impact of these changes on the platform by applying a set of *guidelines* or *rules*. For instance, they might ask, "*Is TLS 1.1 deprecated?"*<sup>[1],[2]</sup> or "*Are there new security vulnerabilities?*"
 
 1. **Implement**: Apply insights to the platform environment, often resulting in notifications to teams responsible.
 
