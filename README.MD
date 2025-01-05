@@ -41,9 +41,11 @@ Embracing AI-driven solutions in platform LCM enhances operational efficiency an
 1. [Azure TLS Deprecation][1]
 1. [AWS TLS Deprecation][2]
 1. [Overlooked Challenge of Efficiently Decommissioning Resources][3]
+1. [Unleash AI in Platform Engineering][4]
+1. [Gartner - How to Govern a Hybrid Multicloud Environment][5]
 
 [1]: https://learn.microsoft.com/en-us/lifecycle/announcements/tls-support-ending-10-31-2024
 [2]: https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/
 [3]: https://blog.omnistrate.com/posts/49
-
-
+[4]: https://thenewstack.io/integrating-ai-to-make-platform-engineering-intelligent/
+[5]: https://www.gartner.com/en/documents/5446963
