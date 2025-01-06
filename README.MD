@@ -23,7 +23,7 @@ To automate this effectively, we should translate the *guidelines* or *rules* in
 - **Reactive Approach**: Teams often address issues only after they occur, increasing the likelihood of service disruptions rather than proactively mitigating risks.  
 
 
-## Platform LCM AI
+## ֎ Platform LCM AI
 
 To perform lifecycle management (LCM) that evolves and adapts, transform static rule-based logic into an adaptive reasoning engine. The advancements in AI, particularly large language models (LLMs), to summarize and identify relationships in text allows us to combine our _Sources_ and _Rules_ to effectively create a _reasoning engine_. Now teams can update the behaviour of the _reasoning engine_ using natural language instead of code. This allows teams to update rules dynamically with reduced cognitive overhead.
 
@@ -36,7 +36,7 @@ Incorporating environmental or workload metadata into these systems facilitates 
 Embracing AI-driven solutions in platform LCM enhances operational efficiency and also positions organizations to better navigate the complexities of modern cloud environments. By leveraging the advanced reasoning capabilities of LLMs, businesses can achieve a more resilient and responsive infrastructure, ensuring sustained success in an ever-changing digital landscape.
 
 
-## Limitations and Mitigations
+## ⚠️ Limitations and Mitigations
 
 Schillace<sup>[6]</sup> & Ethan Mollick<sup>[7]</sup> are of the opinion *"The models get better over time".*  However, current generation of AI models are not perfect and have limitations. Here are some of the limitations and potential mitigation strategies:
 
@@ -46,29 +46,23 @@ Schillace<sup>[6]</sup> & Ethan Mollick<sup>[7]</sup> are of the opinion *"The m
 One potential mitigation strategy is to implement a human-in-the-loop system that allows human operators to review and correct the AI's decisions. This approach ensures that the AI system remains aligned with the organization's goals and values while leveraging the efficiency and scalability of AI-driven solutions.
 
 
-## Conclusion
+## ✨ Conclusion
 
 By transforming static rule-based systems into adaptive reasoning engines, organizations can better navigate the increasing complexity of cloud environments while reducing operational overhead. The successful adoption of AI-driven LCM depends not just on the technology itself, but on how well it's integrated into existing workflows and systems.
 
 
-## What's Next: Technical Deep Dive
+## 🚀 What's Next: Technical Deep Dive
 In Part 2 of this series, we'll explore the technical implementation details of Platform LCM AI, including:
 
 - Modular Pipeline Architecture
 - Enhancement Phase
-  - Advanced reasoning capabilities  - GraphRAG perhaps?
+  - Advanced reasoning capabilities  - GraphRAG<sup>[9]</sup> perhaps?
   - Extended tool integration
 - Optimization Phase
   - Self-improving capabilities with Confidence scoring, Validation gates, and Feedback loops
   - Advanced automation
 
-Constructing the AI reasoning engine using Azure OpenAI
-Building resilient data pipelines for cloud provider updates
-Implementing confidence scoring and validation gates
-Creating feedback loops for continuous improvement
-Developing integration patterns with existing DevOps tools
-
-Stay tuned as we transform these concepts into practical, implementable solutions for modern cloud environments.
+Stay tuned as we translate these concepts into actionable solutions for modern cloud environments. Moim has initiated the technical implementation of Platform LCM AI—explore his progress [here][10].
 
 
 ### 📚 References
@@ -94,3 +88,4 @@ Stay tuned as we transform these concepts into practical, implementable solution
 [7]: https://www.gsb.stanford.edu/insights/co-intelligence-ai-masterclass-ethan-mollick#:~:text=instructions%20at%20all.%E2%80%9D-,Assume%20this%20is%20the%20worst%20AI%20you%20will%20ever%20use,-.%E2%80%9CWe%E2%80%99re%20early
 [8]: https://www.oneusefulthing.org/p/what-people-ask-me-most-also-some?r=o98ff&utm_campaign=post&utm_medium=email&triedRedirect=true#:~:text=all%20three%20scenarios.-,The%20only%20thing%20I%20know%20for%20sure%20is%20that%20the%20AI%20you%20are%20using%20today%20is%20the%20worst%20AI%20you%20are%20ever%20going%20to%20use,-%2C%20since%20we%20are
 [9]:https://microsoft.github.io/graphrag/
+[10]: https://moimhossain.com/2024/04/05/streamlining-azure-resource-management-with-ai-powered-lcm/
