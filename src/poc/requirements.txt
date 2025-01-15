@@ -1,1 +1,10 @@
 loguru
+pyyaml
+requests
+asyncio
+dotenv
+autogen-core
+autogen-agentchat
+autogen_ext
+autogen-ext[openai]
+autogen-ext[web-surfer]

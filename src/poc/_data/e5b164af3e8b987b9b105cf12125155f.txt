@@ -1,0 +1,13 @@
+AzPolicyAdvertizer Feed Summary
+
+- **Title:** AzAdvertizer - New Azure Policy
+  - **Policy Name:** [Preview]: Prevents containers from being ran as root by setting runAsNotRoot to true.
+  - **Policy Id:** 2fe7ba7d-f670-41f5-8b70-b61dc7dfbe18
+  - **Description:** Setting runAsNotRoot to true increases security by preventing containers from being ran as root.
+  - **Category:** Kubernetes
+
+- **Title:** AzAdvertizer - New Azure Policy
+  - **Policy Name:** [Preview]: Prevents init containers from being ran as root by setting runAsNotRoot to true.
+  - **Policy Id:** fed6510d-00b9-40db-a347-933125a6a327
+  - **Description:** Setting runAsNotRoot to true increases security by preventing containers from being ran as root.
+  - **Category:** Kubernetes
